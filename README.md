@@ -5,3 +5,4 @@ Day 1:
     lengthOfCharacters.py - Checking the length of characters in python
 
 Day 2:
+    BMI_calculator.py - This is a basic BMI calculator that tells you your BMI result by taking your height and weight as input
