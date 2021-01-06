@@ -13,8 +13,12 @@ Exercises:
 Challenges:
 
 Day 2:
+Exercises:
+
     BMI_calculator.py - This is a basic BMI calculator that tells you your BMI result by taking your height and weight as input
 
     LifeInWeeks.py - This program gets your current age and tells you how many days, weeks and months you have left if you are to live up to 90 years.
 
     SplitAndAdd.py - This projects take 2 integers at once the tells you the result if you add the two integers. Example: user enters 24 as input. The project returns 2 + 4 is 6 as output.
+
+Challenges:
