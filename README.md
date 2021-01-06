@@ -6,6 +6,8 @@ Day 1:
 
     lengthOfCharacters.py - Checking the length of characters in python
 
+    swappingVariableValues.py - This project accepts 2 variables as input from the user and swaps the variables by assigning a to b and b to a.
+
 Day 2:
     BMI_calculator.py - This is a basic BMI calculator that tells you your BMI result by taking your height and weight as input
 
