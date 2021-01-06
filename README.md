@@ -12,6 +12,8 @@ Exercises:
 
 Challenges:
 
+    BrandNameGenerstor.py - Projects that generates a brandname based based on the name of your pet and the city in which you grew in
+
 Day 2:
 Exercises:
 
@@ -22,3 +24,4 @@ Exercises:
     SplitAndAdd.py - This projects take 2 integers at once the tells you the result if you add the two integers. Example: user enters 24 as input. The project returns 2 + 4 is 6 as output.
 
 Challenges:
+
