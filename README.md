@@ -12,7 +12,7 @@ Exercises:
 
 Challenges:
 
-    BrandNameGenerstor.py - Projects that generates a brandname based based on the name of your pet and the city in which you grew in
+    BrandNameGenerstor.py - Projects that generates a brandname based on the name of your pet and the city in which you grew in
 
 Day 2:
 Exercises:
