@@ -28,3 +28,4 @@ Challenges:
     TipCalculator.py - A program that takes the amount of bill and number of people that are to split the bill and ask the percentage of tip they want to give and shares the bill among the
     
 Day 3:
+Exercises:
