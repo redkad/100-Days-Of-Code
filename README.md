@@ -24,4 +24,4 @@ Exercises:
     SplitAndAdd.py - This projects take 2 integers at once the tells you the result if you add the two integers. Example: user enters 24 as input. The project returns 2 + 4 is 6 as output.
 
 Challenges:
-
+    TipCalculator.py - A program that takes the amount of bill and number of people that are to split the bill and ask the percentage of tip they want to give and shares the bill among them
