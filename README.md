@@ -29,3 +29,5 @@ Challenges:
     
 Day 3:
 Exercises:
+
+    BMI2.py - Second version of BMI_calculator.py but this version tells you whether you are underweight, overweight, or average.
