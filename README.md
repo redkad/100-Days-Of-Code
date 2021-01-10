@@ -35,3 +35,5 @@ Exercises:
     leap.py - A program that accepts an input (year) from the user and checks whether the year is a leap year.
 
     LoveCalculator.py - This program takes the first and last name of you and your partner and tells you how much you are compatible with each other.
+
+    ODDorEVEN.py - Program that checks whether a number is an odd number or an even number.
