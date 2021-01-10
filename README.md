@@ -31,3 +31,5 @@ Day 3:
 Exercises:
 
     BMI2.py - Second version of BMI_calculator.py but this version tells you whether you are underweight, overweight, or average.
+
+    leap.py - A program that accepts an input (year) from the user and checks whether the year is a leap year.
