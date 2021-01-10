@@ -33,3 +33,5 @@ Exercises:
     BMI2.py - Second version of BMI_calculator.py but this version tells you whether you are underweight, overweight, or average.
 
     leap.py - A program that accepts an input (year) from the user and checks whether the year is a leap year.
+
+    LoveCalculator.py - This program takes the first and last name of you and your partner and tells you how much you are compatible with each other.
