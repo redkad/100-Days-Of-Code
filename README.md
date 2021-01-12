@@ -39,3 +39,5 @@ Exercises:
     ODDorEVEN.py - Program that checks whether a number is an odd number or an even number.
 
     pizzaOrder.py - A simple application that takes pizza oders.
+
+Challenges:
