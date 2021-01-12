@@ -37,3 +37,5 @@ Exercises:
     LoveCalculator.py - This program takes the first and last name of you and your partner and tells you how much you are compatible with each other.
 
     ODDorEVEN.py - Program that checks whether a number is an odd number or an even number.
+
+    pizzaOrder.py - A simple application that takes pizza oders.
