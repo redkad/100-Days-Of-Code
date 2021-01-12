@@ -41,3 +41,5 @@ Exercises:
     pizzaOrder.py - A simple application that takes pizza oders.
 
 Challenges:
+
+    SoccerHero.py - A word puzzle game based on football that open a new chapter of puzzle based on your input.
