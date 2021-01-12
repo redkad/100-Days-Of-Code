@@ -43,3 +43,5 @@ Exercises:
 Challenges:
 
     SoccerHero.py - A word puzzle game based on football that open a new chapter of puzzle based on your input.
+
+Day 4:
