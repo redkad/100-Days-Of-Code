@@ -53,5 +53,3 @@ Day 5:
 Exercises:
 
 
-
-Challenges:
