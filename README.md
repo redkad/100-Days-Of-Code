@@ -48,7 +48,6 @@ Day 4:
 Exercises:
 
 
-
 Day 5:
 Exercises:
 
