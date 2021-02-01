@@ -54,3 +54,4 @@ Exercises:
 
 
 Day 6:
+Exercises
