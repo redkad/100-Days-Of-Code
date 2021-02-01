@@ -53,4 +53,4 @@ Day 5:
 Exercises:
 
 
-Day 6
+Day 6:
