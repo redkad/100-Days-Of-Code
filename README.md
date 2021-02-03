@@ -49,7 +49,7 @@ Exercises:
 
 
 
-Challenges
+Challenges:
 
 
 Day 5:
