@@ -17,10 +17,10 @@ left_paddle = Paddle((-350, 0))
 ball = Ball()
 scoreboard = ScoreBoard()
 
-screen.onkey(right_paddle.go_up, "Up")
-screen.onkey(right_paddle.go_down, "Down")
-screen.onkey(left_paddle.go_up, "w")
-screen.onkey(left_paddle.go_down, "s")
+screen.onkeypress(right_paddle.go_up, "Up")
+screen.onkeypress(right_paddle.go_down, "Down")
+screen.onkeypress(left_paddle.go_up, "w")
+screen.onkeypress(left_paddle.go_down, "s")
 
 screen.listen()
 
