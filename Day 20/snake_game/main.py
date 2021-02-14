@@ -13,6 +13,7 @@ screen.tracer(0)
 snake = Snake()
 food = Food()
 score = ScoreBoard()
+# score.update_highscore()
 
 screen.listen()
 screen.onkey(snake.up, "Up")
@@ -36,12 +37,15 @@ while is_game_on:
         snake.extend()
 
     if snake.head.xcor() > 280 or snake.head.xcor() < -280 or snake.head.ycor() > 280 or snake.head.ycor() < -280:
-        is_game_on = False
-        score.game_over()
+        # is_game_on = False
+        score.reset()
+        snake.reset()
 
     for snake_body in snake.snake_body[1:]:
         if snake.head.distance(snake_body) < 10:
-            is_game_on = False
-            score.game_over()
+            # is_game_on = False
+            score.reset()
+            snake.reset()
+
 
 screen.exitonclick()
