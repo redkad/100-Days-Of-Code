@@ -20,5 +20,4 @@ input.grid(row = 1, column = 1)
 txt = tkinter.Entry(width = 20)
 txt.grid(row = 3, column = 4)
 
-
 window.mainloop()
