@@ -31,6 +31,7 @@ def generate_password():
 
     pass_entry_field.delete(0, END)
 
+
     pass_entry_field.insert(0, password)
     pyperclip.copy(password)
 
